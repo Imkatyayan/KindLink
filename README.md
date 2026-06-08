@@ -62,13 +62,13 @@ npm run build    # Build React frontend
 npm start        # Start server (serves API + built frontend)
 ```
 
-## Demo Accounts
+<!-- ## Demo Accounts
 
 | Role     | Email                     | Password  |
 |----------|---------------------------|-----------|
 | Admin    | admin@kindlink.com        | admin123  |
 | Donor    | sarah@example.com         | demo123   |
-| Receiver | michael@example.com       | demo123   |
+| Receiver | michael@example.com       | demo123   | -->
 
 ## API Endpoints
 
