@@ -100,7 +100,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* <section className="demo-credentials container">
+      <section className="demo-credentials container">
         <AnimatedSection>
           <h2>Try Demo Accounts</h2>
           <p className="section-subtitle">Explore the platform instantly with pre-loaded accounts</p>
@@ -119,7 +119,7 @@ export default function Home() {
             </AnimatedSection>
           ))}
         </div>
-      </section> */}
+      </section>
     </div>
   );
 }
