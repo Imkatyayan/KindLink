@@ -99,27 +99,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-
-      {/* <section className="demo-credentials container">
-        <AnimatedSection>
-          <h2>Try Demo Accounts</h2>
-          <p className="section-subtitle">Explore the platform instantly with pre-loaded accounts</p>
-        </AnimatedSection>
-        <div className="demo-grid">
-          {[
-            { role: 'Admin', creds: 'admin@kindlink.com / admin123' },
-            { role: 'Donor', creds: 'sarah@example.com / demo123' },
-            { role: 'Receiver', creds: 'michael@example.com / demo123' },
-          ].map(({ role, creds }, i) => (
-            <AnimatedSection key={role} delay={i * 100}>
-              <div className="demo-card">
-                <span className="demo-role">{role}</span>
-                <p>{creds}</p>
-              </div>
-            </AnimatedSection>
-          ))}
-        </div>
-      </section> */}
     </div>
   );
 }
