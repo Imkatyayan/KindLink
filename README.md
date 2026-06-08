@@ -1,6 +1,10 @@
 # KindLink — Full-Stack Donation Platform
 
 **KindLink** connects kind donors with people in need — direct, verified, one-to-one. No middleman.
+Web application for universal donation platform made to bridge a communication link between the registered donors and receivers on the platform thus, resulting in direct one to one transfer between the two without the involvement of a middle man or any third participant allowing the fund to directly being delivered to the receiver. The payment will be monitored through the payment gateway thus helping us to keep the transaction transparent.
+
+The users have to register themselves on the platform providing the necessary details as mentioned in the registration form, Once the user has provided the details the Admin verifies the details and based on the verification grants access to the user's account or blocks the users if it fails to provide the details required for authentication. The users can create post mentioning their area of interest of donation/reception and our platform fetches results of donors/receivers matching their area of interest. The users can browse through these SOP(Post) and communicate with the users matching their specifications and requirements enabling them to carry out one-to-one communication and transfer of funds without involvement of a third participant or middle man.
+
 
 A full-stack React + Express application for transparent donor-to-receiver fund transfers.
 
